@@ -3,6 +3,7 @@
 
 [Invent with Scratch](https://inventwithscratch.com)
 - [Scratch Programmming Playground](https://inventwithscratch.com/book)
+- [Scratch Class Handbook](https://inventwithscratch.com/Scratch_Class_Handbook.pdf)
 
 
 Online Courses
