@@ -7,3 +7,6 @@ My notes:
 - sometimes we get bugs
 - a bug means an Error
 - you could make games
+- Use variables
+- make a block (like: move_forward, go 10 steps)
+- choose a background
