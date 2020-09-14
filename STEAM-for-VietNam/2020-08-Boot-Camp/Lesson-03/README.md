@@ -1,4 +1,4 @@
-# Lesson 03 Diary
+# Bài học số 3: Phá Đảo Thiên Thạch
 
 Bài học hôm nay là: Today I learned about fighting the meteorite. Và điều tớ thích nhất chính là: I like making variables.
 

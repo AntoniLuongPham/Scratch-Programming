@@ -1,4 +1,4 @@
-# Lesson 01 Diary
+# Bài học số 1: Cá Nướng Của Miu Đâu Rồi?
 
 Hôm nay tớ đã tạo ra được trò chơi Miu tìm cá nướng. Tớ cảm thấy rất vui.
 

@@ -1,4 +1,4 @@
-# Lesson 02 Diary
+# Bài học số 2: Mèo Đuổi Chuột Trong Vũ Trụ
 
 Điều tớ thích nhất về bài học chính là: Make cat and mouse move and draw lines.
 

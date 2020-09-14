@@ -1,4 +1,4 @@
-# Lesson 05 Diary
+# Bài học số 5: Siêu Robot Ném Bóng Rổ
 
 Bài tớ học hôm nay là: Siêu Robot ném Bóng Rổ.
 

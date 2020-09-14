@@ -1,4 +1,4 @@
-# Lesson 04 Diary
+# Bài học số 4: Rắn Bắt Sao
 
 Nhật ký ơi, bài học hôm nay được gọi là: ...
 

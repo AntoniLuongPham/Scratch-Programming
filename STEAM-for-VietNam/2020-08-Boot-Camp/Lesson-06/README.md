@@ -1,4 +1,4 @@
-# Lesson 06 Diary
+# Bài học số 6: Đường Đua Kỳ Thú
 
 Tớ gặp khó khăn trong bài học hôm nay ở chỗ: The tunnel and road level 2 did not appear when I got more than 10 points. It is because i should use backdrop not costume in the block when the car drinks the oil.
 

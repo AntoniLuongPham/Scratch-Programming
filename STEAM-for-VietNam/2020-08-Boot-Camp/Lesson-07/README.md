@@ -1,1 +1,1 @@
-# Lesson 07 Diary
+# Bài học số 7: Miu Phiêu Lưu Ký, Phần 1
