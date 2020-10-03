@@ -9,3 +9,7 @@ Tớ đã bắt đầu áp dụng bí kíp TTNV rồi đấy! Tớ cảm thấy 
 Trong buổi học tiếp theo, tớ sẽ thêm một thử thách cho bạn Miu, đó là: ...
 
 Nếu tớ được rủ một người để học cùng với tớ bài học hôm nay thì đó sẽ là: I would like to learn with my sister because she likes Scratch.
+
+[Trò chơi Cơ bản](https://scratch.mit.edu/projects/424115491)
+
+[Trò chơi Nâng cao](https://scratch.mit.edu/projects/424504106)
