@@ -7,3 +7,7 @@ Tớ đã bắt đầu áp dụng bí kíp TTNV rồi đấy! Tớ cảm thấy 
 Nếu có ai hỏi tớ buổi học có khó không, tớ sẽ trả lời là: It's ok for me. I can follow it.
 
 Điều tớ mong thấy nhất ở buổi học kế tiếp là: I want to make more games.
+
+[Trò chơi Cơ bản](https://scratch.mit.edu/projects/420572188)
+
+[Trò chơi Nâng cao](https://scratch.mit.edu/projects/420726807)
