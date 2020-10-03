@@ -11,3 +11,7 @@ Tớ đã bắt đầu áp dụng bí kíp TTNV rồi đấy! Tớ cảm thấy 
 Cậu hỏi tớ nghĩ gì về việc học lập trình á? Tớ nghĩ rằng: In the starting it feel hard but when in the end it is easy.
 
 Tớ sẽ áp dụng những điều mình đã học để: To make more games.
+
+[Trò chơi Cơ bản](https://scratch.mit.edu/projects/425934465)
+
+[Trò chơi Nâng cao](https://scratch.mit.edu/projects/425073546)
