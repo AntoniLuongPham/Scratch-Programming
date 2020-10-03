@@ -11,3 +11,7 @@ Tớ không chỉ học về code đâu! Tớ còn học được là: ...
 Cậu biết không Nhật ký, tớ nhất định sẽ kể với gia đình là: I am happy I make my own game.
 
 Có một điều tớ muốn nói với các thầy cô là: Thank you for teaching me this game.
+
+[Trò chơi Cơ bản](https://scratch.mit.edu/projects/421258041)
+
+[Trò chơi Nâng cao](https://scratch.mit.edu/projects/421352608)
