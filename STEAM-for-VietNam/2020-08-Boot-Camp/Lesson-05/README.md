@@ -19,3 +19,7 @@ Tớ đã bắt đầu áp dụng bí kíp TTNV rồi đấy! Tớ cảm thấy 
 Tớ rất muốn nói với các thầy cô và các anh chị trong STEAM for Vietnam là: Do you like my game?
 
 So với trước khi bắt đầu Trại hè, tớ nghĩ mình đã tiến bộ và hiểu biết hơn rất nhiều rồi đấy! Tớ đã giỏi giang hơn trong việc: I am better at making variables.
+
+[Trò chơi Cơ bản](https://scratch.mit.edu/projects/423048301)
+
+[Trò chơi Nâng cao](https://scratch.mit.edu/projects/423047099)
