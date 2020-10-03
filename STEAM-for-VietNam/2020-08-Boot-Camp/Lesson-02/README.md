@@ -7,3 +7,7 @@ Tớ đã bắt đầu áp dụng bí kíp TTNV rồi đấy! Tớ cảm thấy 
 Tớ chắc chắn sẽ khoe với với bố mẹ là: I will let my mom and dad play with me.
 
 Học lập trình thật vui quá! Ở buổi học kế tiếp tớ muốn: I want to make more games.
+
+[Trò chơi Cơ bản](https://scratch.mit.edu/projects/419625190)
+
+[Trò chơi Nâng cao](https://scratch.mit.edu/projects/419609875)
