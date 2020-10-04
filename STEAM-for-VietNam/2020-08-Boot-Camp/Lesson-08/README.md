@@ -9,3 +9,7 @@ Qua 8 buổi học vừa rồi thì tớ cảm thấy: I am happy because I lear
 Điều mà tớ mong chờ mình sẽ học được ở Dự án Cuối khoá là: ...
 
 Tớ sẽ áp dụng những điều mình đã học để: I want to make my own game.
+
+[Trò chơi Cơ bản](https://scratch.mit.edu/projects/426214419)
+
+[Trò chơi Nâng cao](https://scratch.mit.edu/projects/426791305)
