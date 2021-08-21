@@ -1,0 +1,13 @@
+# Bài học số 6: Rắn bắt sao
+
+
+## Câu 1: Nhật ký lập trình của tớ
+
+Con hãy chia sẻ với thầy cô và các bạn về những cảm nghĩ của con sau bài học hôm nay bằng cách trả lời những câu hỏi sau nhé:
+
+Điều tớ thích nhất về bài học Rắn Bắt Sao chính là....
+Trong bài học này, để lưu trữ vị trí của Thân Rắn, hay chính là lưu trữ nhiều biến một lúc, tớ đã sử dụng ... Tớ cũng có thể sử dụng nó để lưu trữ ...
+Việc lập trình cho Đầu Rắn di chuyển so với việc lập trình di chuyển ở các bài học trước có nhiều điểm chung. Đó là ...
+Để trò chơi Rắn Bắt Sao của mình hay hơn nữa, ngoài nhân vật ngôi sao, tớ sẽ thêm ...
+
+What I like about Rắn Bắt Sao - it is fun. I added a crab. If the snake touches the crab, the game is over.
